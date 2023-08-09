@@ -3,13 +3,6 @@ Kenshins Hide And Seek
 
 Highly customizable hide and seek plugin
 
-
-How To
------------
-
-To learn more about the plugin and how to use it, visit the [wiki](https://git.tylermurphy.net/tylermurphy534/KenshinsHideAndSeek/wiki)
-
-
 License
 -----------
 
